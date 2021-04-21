@@ -1,0 +1,57 @@
+.div1{
+  height: 150px;
+  background-color: DarkBlue;
+  border-style: solid;
+  border-width: 5px;
+  padding: 10px;
+  margin:2px;
+}
+.div2{
+  height: 950px;
+  background-color: yellow;
+  border-style: solid;
+  border-width: 5px;
+  padding: 15px;
+  margin:2px;
+}
+.table{
+  height: 250px;
+  background-color: DarkBlue;
+  border-style: solid;
+  border-width: 5px;
+  padding: 10px;
+  margin:2px;
+}
+.Choose{
+  height: 150px;
+  background-color: yellow;
+  border-style: solid;
+  border-width: 5px;
+  padding: 10px;
+  margin:2px;
+}
+.sfsf {
+  position: relative;
+  top: 20px;
+}
+
+h1 {
+  position: absolute;
+  left:700px;
+  top:0px;
+}
+
+p {color: blue;}
+
+.ex1 {display: none;}
+.ex2 {display: inline;}
+.ex3 {display: block;}
+.ex4 {display: inline-block;}
+
+img {
+  float: right;
+}
+
+p.clear {
+  clear: both;
+}
